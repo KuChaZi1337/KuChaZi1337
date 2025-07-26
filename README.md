@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=playful&duration=3000&pause=1000&color=65F713&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=I+like+Senren*Banka;I+like+Sabbat+Of+The+Witch;I+like+Elaina%2C+I+like+Aisiya%2C+I+like+All)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=playful&duration=3000&pause=1000&color=65F713&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=I+love+Senren*Banka;I+love+Sabbat+Of+The+Witch;I+love+Elaina%2C+I+love+柚叶%2C+I+love+VVan)](https://git.io/typing-svg)
 
 # KuChaZi 💕
 ## GalGame / Love Jibril
