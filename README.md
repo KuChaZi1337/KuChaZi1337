@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KuChaZi%20💕&fontSize=70&fontAlignY=35&desc=GalGame%20%7C%20Love%20Jibril&descSize=20&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:FF1493&height=200&section=header&text=KuChaZi%20💕&fontSize=70&fontAlignY=35&desc=GalGame%20%7C%20Love%20Jibril&descSize=20&descAlignY=60&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&pause=800&color=F4A7C4&center=true&vCenter=true&width=500&lines=%E2%9D%A4%EF%B8%8E+Senren*Banka+%E2%9D%A4%EF%B8%8E;%E2%9C%A6+Sabbat+Of+The+Witch+%E2%9C%A6;%E2%9C%A7+伊蕾娜+%26+柚叶+%26+薇薇安+%E2%9C%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&pause=800&color=F4A7C4&center=true&vCenter=true&width=500&lines=%E2%9D%A4%EF%B8%8E+Senren*Banka+%E2%9D%A4%EF%B8%8E;%E2%9C%A6+Sabbat+Of+The+Witch+%E2%9C%A6;%E2%9C%A7+伊蕾娜+%26+叶瞬光+%26+蕾米埃尔+%26+薇薇安+%E2%9C%A7)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=KuChaZi1337&color=FFB6C1&style=flat-square&label=🌸+Visitors)
 
@@ -72,6 +72,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:FF1493&height=120&section=footer" />
 
 </div>
