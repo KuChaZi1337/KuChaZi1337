@@ -25,15 +25,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KuChaZi1337&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&icon_color=FF6B8A&text_color=555555" width="49%" />
+<img src="https://github-readme-stats-five-pi-87.vercel.app/api?username=KuChaZi1337&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&icon_color=FF6B8A&text_color=555555" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuChaZi1337&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&text_color=555555&layout=compact" width="49%" />
+<img src="https://github-readme-stats-five-pi-87.vercel.app/api/top-langs/?username=KuChaZi1337&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&text_color=555555&layout=compact" width="49%" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuChaZi1337&theme=soft-pink&hide_border=true&background=FFF0F5&ring=FF6B8A&fire=FFB6C1&currStreakLabel=FF6B8A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KuChaZi1337&theme=soft-pink&hide_border=true&background=FFF0F5&ring=FF6B8A&fire=FFB6C1&currStreakLabel=FF6B8A)](https://git.io/streak-stats)
 
 </div>
 
@@ -49,11 +49,14 @@
 
 ---
 
-## 🎵 正在听的歌
+## 🎮 最近在玩
 
 <div align="center">
 
-![](https://novel-bell-6b0.notion.site/image/https%3A%2F%2Fspotify-github-profile.vercel.app%2Fapi%2Fview%3Fuid%3D31rw3p6yuj7q4hrw7r23vllbvrlq%26cover_image%3Dtrue%26theme%3Dnovel?table=block&id=19c79a0b-a0f9-80a2-8a7a-d43e54f386c4&spaceId=19c79a0b-a0f9-80a2-8a7a-d43e54f386c4&width=500&userId=&cache=v2)
+| 游戏 | 状态 |
+|:---:|:---:|
+| 🎴 ZZZ | 等蕾米埃尔 ❤️ |
+| 🐔 PUBG | Hacked ✅ |
 
 </div>
 
