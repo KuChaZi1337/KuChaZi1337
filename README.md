@@ -4,12 +4,16 @@
 
 # KuChaZi 💕
 ## GalGame / Love Jibril
+
 <p align="center">
-  <a href="https://github.com/KuChaZi1337">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=KuChaZi1337&data=followers,repositories,stars,commits" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuChaZi1337&hide=javascript,html,php,powershell,glsl,batchfile,python" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=KuChaZi1337&show_icons=true" />
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=KuChaZi1337" />
-  </a>
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=KuChaZi1337&data=followers,repositories,stars,commits" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuChaZi1337&hide=javascript,html,php,powershell,glsl,batchfile,python,css,scss,shell" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KuChaZi1337&show_icons=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=KuChaZi1337" />
+</p>
