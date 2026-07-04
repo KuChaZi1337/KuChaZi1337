@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12&height=200&section=header&text=✧%20KuChaZi%20✧&fontSize=70&fontAlignY=35&desc=♪%20GalGame%20%7C%20Love%20Jibril%20♪&descSize=20&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KuChaZi%20💕&fontSize=70&fontAlignY=35&desc=GalGame%20%7C%20Love%20Jibril&descSize=20&descAlignY=60&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&pause=800&color=F4A7C4&center=true&vCenter=true&width=500&lines=%E2%9D%A4%EF%B8%8E+Senren*Banka+%E2%9D%A4%EF%B8%8E;%E2%9C%A6+Sabbat+Of+The+Witch+%E2%9C%A6;%E2%9C%A7+伊蕾娜+%26+柚叶+%26+薇薇安+%E2%9C%A7)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@
 
 ```ascii
    ╔═══════════════════════════════════════╗
-   ║  ✿  欢迎来到 KuChaZi 的小世界  ✿    ║
-   ║    GalGame 玩家 ｜ 二次元浓度 100%   ║
-   ║    💕 永远喜欢 伊蕾娜 & 柚叶 & 薇薇安  ║
+   ║  ✿  欢迎来到 KuChaZi 的__世界  ✿    ║
+   ║             PUBG ｜ Apex             ║
+   ║  💕          Love u <3               ║
    ╚═══════════════════════════════════════╝
 ```
 
@@ -23,10 +23,10 @@
 ## 🌙 关于我
 
 ```text
-🎮 主修：GalGame 鉴赏家
-📖 副修：ACGN 文化研究
-💝 本命：Jibril ｜ 伊蕾娜 ｜ 柚叶 ｜ 薇薇安
-🎯 目标：推完所有想玩的 GalGame！
+🎮 主修：啪啪啪不鸡
+📖 副修：C嘎嘎、抓哇
+💝 本命：叶瞬光 ｜ 伊蕾娜 ｜ 蕾米埃尔 ｜ 薇薇安
+🎯 目标：__________
 ```
 
 ---
@@ -80,6 +80,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer" />
 
 </div>
