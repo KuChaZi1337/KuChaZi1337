@@ -25,10 +25,9 @@
 
 <div align="center">
 
-| 📊 统计项目 | 📈 数据 |
-|:---:|:---:|
-| 🎯 我的 GitHub 状态 | <img src="https://github-readme-stats.vercel.app/api?username=KuChaZi1337&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&icon_color=FF6B8A&text_color=555555" width="400"/> |
-| 📚 常用语言 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuChaZi1337&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&text_color=555555&layout=compact" width="400"/> |
+<img src="https://github-readme-stats.vercel.app/api?username=KuChaZi1337&show_icons=true&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&icon_color=FF6B8A&text_color=555555" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuChaZi1337&theme=radical&hide_border=true&bg_color=FFF0F5&title_color=FF6B8A&text_color=555555&layout=compact" width="49%" />
 
 </div>
 
